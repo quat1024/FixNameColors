@@ -1,0 +1,4 @@
+name: FixNameColors
+main: io.github.quatcraft.FixNameColorPlugin.FixNameColorPlugin
+version: 0.1
+author: quaternary
